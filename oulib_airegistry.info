@@ -1,0 +1,31 @@
+name = OU Libraries AI Registry Theme
+description = This is a subtheme of Bootstrap used at OU Libraries.
+core = 7.x
+base theme = bootstrap
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Regions
+;;;;;;;;;;;;;;;;;;;;;
+
+regions[header]         = 'Header'
+regions[highlighted]    = 'Highlighted'
+regions[help]           = 'Help'
+regions[content]        = 'Content'
+regions[sidebar_first]  = 'Primary Sidebar'
+regions[sidebar_second] = 'Secondary Sidebar'
+regions[page_top]		= 'Page top'
+regions[page_bottom]	= 'Page bottom'
+regions[logo]			= 'Logo'
+regions[login-left]     = 'Login Left'
+regions[login-right]    = 'Login Right'
+regions[nav-icons]		= 'Navbar Icons'
+regions[menu]			= 'Menu'
+regions[site-name]		= 'Site Name'
+
+
+;;;;;;;;;;;;;;;;;;;;;
+;; Stylesheets
+;;;;;;;;;;;;;;;;;;;;;
+
+stylesheets[all][] = css/style.css
