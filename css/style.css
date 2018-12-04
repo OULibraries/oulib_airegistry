@@ -1,16 +1,31 @@
  /**
-  * Stylesheet for OU Lib Bootstrap //
+  * Stylesheet for OU Lib AI Registry //
   *
   * Table of Contents
    - - - - - - - - -
-   
-   Navbar & Menus
+    Exposed Search Form 
+    Navbar & Menus
   
-
-
   
    - - - - - - - - -
   */
+
+
+
+/**
+* Exposed Filter Form
+*/
+
+.views-exposed-form {
+ 	border:1px solid #cccccc;
+	background-color:#e2e2e2;
+	Padding:20px;
+}
+
+div#.edit-title-wrapper div#.edit-field-tag-project-tid-wrapper {
+	width:300px;
+}
+
 
 /**
 * Navbar & Menus
