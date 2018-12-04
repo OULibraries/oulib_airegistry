@@ -22,7 +22,7 @@
 	Padding:20px;
 }
 
-div#edit-title-wrapper div#edit-field-tag-project-tid-wrapper {
+#edit-title-wrapper, #edit-field-tag-project-tid-wrapper {
 	width:300px;
 }
 
