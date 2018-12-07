@@ -5,8 +5,7 @@
    - - - - - - - - -
     Exposed Search Form 
     Navbar & Menus
-  
-  
+    Top Regions  
    - - - - - - - - -
   */
 
@@ -274,4 +273,22 @@ ul.main-menu li a:hover {
 
 ul.menu.nav{
 	line-height: 1em;
+}
+
+/**
+ * Top Region
+ **/
+
+#top_regions {
+     background-color: rgb(226,226,226); /* Old Browsers */
+}
+
+
+.login-area {
+     margin:6% 20px 5% 30%;
+     border-radius: 6px;
+     background-color: white;
+     padding: 20px;
+     width: 40%;
+     border:2px solid #999999;
 }
