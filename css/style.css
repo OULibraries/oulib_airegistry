@@ -285,10 +285,14 @@ ul.menu.nav{
 
 
 .login-area {
-     margin:6% 20px 5% 30%;
+     margin:6% 20px 5% 40%;
      border-radius: 6px;
      background-color: white;
      padding: 20px;
-     width: 40%;
+     width: 37%;
      border:2px solid #999999;
+}
+
+.region-login-left {
+     text-align: center;
 }
