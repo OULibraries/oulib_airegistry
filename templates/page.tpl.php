@@ -87,15 +87,9 @@
 
             <div class="col-md-6 col-sm-12 col-xs-12">
                 <div class="login-area">
-                    <div class="col-md-7 col-sm-12 col-xs-12">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
                       <?php if (!empty($page['login-left'])): ?>
                         <?php print render($page['login-left']); ?>
-                      <?php endif; ?>
-                    </div>
-                   
-                    <div class="col-md-5 col-sm-12 col-xs-12 region-login-right">
-                      <?php if (!empty($page['login-right'])): ?>
-                        <?php print render($page['login-right']); ?>
                       <?php endif; ?>
                     </div>
                     <div style="clear:both;"></div>
