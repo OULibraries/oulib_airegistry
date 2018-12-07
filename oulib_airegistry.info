@@ -1,4 +1,4 @@
-name = OU Libraries AI Registry Theme
+name = OU Libraries Project AI Registry (PAIR) Theme
 description = This is a subtheme of Bootstrap used at OU Libraries.
 core = 7.x
 base theme = bootstrap
