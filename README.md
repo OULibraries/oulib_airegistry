@@ -1,4 +1,4 @@
-oulib_airegistry
+oulib_pair
 ===============
 
-This theme is for the National AI Registry hosted by OU Libraries.
+This theme is for the Project AI Registry (PAIR) hosted by OU Libraries.
